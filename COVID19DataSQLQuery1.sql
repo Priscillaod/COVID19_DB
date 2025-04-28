@@ -8,7 +8,7 @@ SELECT*
 FROM COVID19Database.dbo.CovidVaccinations
 order by 3,4
 
--- EXPLORE COVID DEATH TABLE
+--- EXPLORE COVID DEATH TABLE
 
 SELECT location, date, total_cases, new_cases, total_deaths, population
 FROM COVID19Database.dbo.CovidDeaths
