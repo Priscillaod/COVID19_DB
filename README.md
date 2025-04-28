@@ -1,6 +1,8 @@
 **COVID19-DATA-EXPLORATION BY PRISCILLA LATINWO**
 
 
+
+
 **PROJECT OVERVIEW**
 This project focuses on exploratory data analysis of COVID-19 case and vaccination data spanning the height of the global pandemic (2020–2021).
 Using SQL for data transformation and exploration, and Tableau for visualization, the objective was to uncover key patterns and insights related to infection rates, death rates, and geographic trends across continents and countries.
@@ -79,7 +81,7 @@ An interactive Tableau dashboard was developed to visually represent key finding
 ![image](https://user-images.githubusercontent.com/93530232/214538037-d7b3c713-2e28-4753-8b0d-cc8490b9a1b3.png)
 
 
-
+https://public.tableau.com/views/COVID19VIZ_16745976485330/Covid19Viz?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 
 
